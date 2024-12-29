@@ -14,7 +14,7 @@ Bem-vindo ao repositório de **Relatórios Power BI**! Aqui estão exemplos de d
   - Mutirões de atendimento técnico.
 - **Objetivo**: Consolidar informações estratégicas em um único painel para facilitar a tomada de decisão.
 - **Captura de Tela**:
-  ![Relatório DIGEO](dashboard_contratos.png)
+  ![Relatório DIGEO](dashboard_iniciativas.png)
 
 ---
 
