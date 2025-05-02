@@ -43,7 +43,7 @@ Bem-vindo ao repositório de **Relatórios Power BI**! Aqui estão exemplos de d
 
 ---
 
-### [Monitoramento das Análises de CAR por Municípios Habilitados](https://app.powerbi.com/view?r=eyJrIjoiMDAxZWIzMWEtZDVkNy00MDQxLWIyYmItNTM2NzkzNGI0ZmJlIiwidCI6ImJiOWRkMWUwLTgzYmEtNGZmYS1hY2Q3LTQyNzJhZGY4ZGIyNSJ9)
+### Monitoramento das Análises de CAR por Municípios Habilitados
 - **Descrição**: Um painel para monitorar os resultados da análise de CAR realizada pelos municípios habilitados. Disponível publicamente no portal da SEMAS.
 - **Objetivo**: Acompanhar a evolução das análises municipais e promover maior transparência.
 - **Link no Portal**: [SEMAS - Municipalização das Análises de CAR](https://www.semas.pa.gov.br/analisecar/municipalizacao-analises.php)
