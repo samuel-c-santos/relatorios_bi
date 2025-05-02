@@ -1,4 +1,4 @@
-# Relatórios Power BI de Samuel Santos
+se# Relatórios Power BI de Samuel Santos
 
 Bem-vindo ao repositório de **Relatórios Power BI**! Aqui estão exemplos de dashboards que desenvolvi para monitoramento e suporte à tomada de decisão em diversas áreas, como gestão ambiental, conservação da vegetação nativa, e gestão de contratos. Cada projeto utiliza o Power BI como ferramenta principal para transformar dados em insights.
 
@@ -26,7 +26,7 @@ Bem-vindo ao repositório de **Relatórios Power BI**! Aqui estão exemplos de d
 
 ---
 
-### [Gestão de Contratos de Serviços Terceirizados](https://app.powerbi.com/view?r=eyJrIjoiNGUzYTFkMTktNGM1Yy00M2VlLTg0YjItNjJmZGY4NGU2OTQyIiwidCI6ImJiOWRkMWUwLTgzYmEtNGZmYS1hY2Q3LTQyNzJhZGY4ZGIyNSJ9)
+### Gestão de Contratos de Serviços Terceirizados
 - **Descrição**: Um painel desenvolvido para monitorar a gestão de contratos na SEMAS/PA, fiscalizados pela DIGEO. Ele reúne dados sobre termos de referência, execução de contratos e fiscalização.
 - **Objetivo**: Dar suporte à fiscalização e à tomada de decisão sobre contratos ativos.
 - **Captura de Tela**:
