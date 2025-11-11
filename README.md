@@ -1,7 +1,20 @@
-se# Relatórios Power BI de Samuel Santos
+Relatórios Power BI de Samuel Santos
 
 Bem-vindo ao repositório de **Relatórios Power BI**! Aqui estão exemplos de dashboards que desenvolvi para monitoramento e suporte à tomada de decisão em diversas áreas, como gestão ambiental, conservação da vegetação nativa, e gestão de contratos. Cada projeto utiliza o Power BI como ferramenta principal para transformar dados em insights.
 
+---
+
+### Painel de Desempenho: Análise da Política de CPAs Compensatórias
+
+  - **Descrição**: Um dashboard interativo em Power BI que monitora o alcance e a adesão à política de **Cota de Proteção Ambiental (CPA) Compensatória**, regulamentada pelo Decreto Nº 4.613/2025.A CPA Compensatória é um instrumento que permite a imóveis rurais com passivo de Reserva Legal (identificados pelo CAR) compensar essa área através da aquisição de cotas equivalentes a 1 hectare em Unidades de Conservação (UCs) estaduais. O painel visualiza:
+      - Aquisições de CPAs por Município de origem do CAR;
+      - Requerimentos de CPAs por Município de origem do CAR;
+      - Aquisições por Região de Integração;
+      - Aquisições por Unidade de Conservação (UC) que disponibiliza as cotas.
+  - **Diferencial Técnico**: Para otimizar o desempenho e garantir dados sempre atualizados, o painel foi desenvolvido utilizando o modo **DirectQuery**. Ele se conecta diretamente ao banco de dados PostgreSQL (via ODBC), executando a consulta SQL nativa para que todo o processamento ocorra no servidor, sem a necessidade de importação e processamento de dados no Power BI.
+  - **Objetivo**: Consolidar e visualizar dados estratégicos sobre a implementação da política de CPA, facilitando o monitoramento da distribuição geográfica da demanda (municípios com passivo) e da oferta (UCs) para a tomada de decisão pelo IDEFLOR-Bio e SEMAS.
+  - **Captura de Tela**:
+  ![Painel CPA](https://github.com/samuel-c-santos/relatorios_bi/blob/main/dash_cpa.png?raw=true)
 ---
 
 ## Relatórios e Dashboards
