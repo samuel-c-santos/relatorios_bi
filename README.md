@@ -82,5 +82,5 @@ Bem-vindo ao repositório de **Relatórios Power BI**! Aqui estão exemplos de d
 Sou um profissional com experiência em análise de dados, regularização ambiental e gestão de projetos. Trabalho com ferramentas como Power BI, Python e bancos de dados para transformar dados em insights e promover tomadas de decisão baseadas em evidências.
 
 ### Contato
-- [LinkedIn](https://www.linkedin.com/in/samuelsantos-amb/)
+- [LinkedIn](https://www.linkedin.com/in/samuel-santos-geo/)
 - E-mail: samuelsantosambiental@gmail.com
